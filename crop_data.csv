@@ -1,0 +1,16 @@
+Crop,Rainfall,Temperature,Humidity,Soil_Moisture,Pre_Sowing_Rainfall,Yield
+Rice,1200,30,75,80,200,95
+Rice,1250,31,76,82,220,98
+Rice,1300,32,78,85,250,99
+Wheat,80,20,60,70,50,72
+Wheat,90,22,62,72,60,75
+Wheat,100,23,65,75,70,78
+Maize,600,28,65,75,100,55
+Maize,650,29,67,77,120,60
+Maize,700,30,70,80,140,65
+Sugarcane,1100,32,80,85,200,110
+Sugarcane,1200,34,82,87,220,115
+Sugarcane,1300,35,85,90,250,121
+Pulses,300,25,55,65,80,3.5
+Pulses,350,26,57,67,90,3.8
+Pulses,400,27,60,70,100,4.0
