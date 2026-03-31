@@ -1,5 +1,8 @@
 # Crop_yield
- ML model to predict crop yield using pre-sowing climate data
+ML model to predict crop yield using pre-sowing climate data
+ 
+🚀 Built using Machine Learning for Smart Agriculture
+
 # 🌾 Crop Yield Prediction using Machine Learning
 
 ## 📌 Project Overview
