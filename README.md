@@ -19,4 +19,14 @@ To help farmers make better decisions by predicting crop yield based on:
 ## ⚙️ How to Run
 
 1. Install dependencies:
+2. Run the model:
+3. 
+## 📊 Features
+- Uses pre-sowing climate data (unique feature)
+- Simple and interpretable model
+- Based on real agricultural insights
 
+## 👨‍💻 Team
+- Parv Srivastava
+- Shruti Jha
+- Sagar Bisht
