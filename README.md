@@ -1,9 +1,22 @@
 # Crop_yield
  ML model to predict crop yield using pre-sowing climate data
-⚠️Steps to run project:
-1. Install Python
-2. Install libraries: pip install pandas scikit-learn
-3. Keep both files in same folder
-4. Run: python model.py
+# 🌾 Crop Yield Prediction using Machine Learning
 
+## 📌 Project Overview
+This project predicts crop yield using historical agricultural data and pre-sowing climate conditions.
+
+## 🎯 Objective
+To help farmers make better decisions by predicting crop yield based on:
+- Rainfall
+- Temperature
+- Humidity
+- Soil Moisture
+- Pre-sowing rainfall
+
+## 🧠 Model Used
+- Random Forest Regressor
+
+## ⚙️ How to Run
+
+1. Install dependencies:
 
