@@ -1,5 +1,5 @@
 # Crop_yield
-Crop yield program using machine learning (random forest regression algo)
+ ML model to predict crop yield using pre-sowing climate data
 ⚠️Steps to run project:
 1. Install Python
 2. Install libraries: pip install pandas scikit-learn
